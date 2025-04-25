@@ -1,0 +1,14 @@
+
+{
+    "name": "ssgs-calc",
+    "version": "1.0.0",
+    "description": "",
+    "main": "comando.js",
+    "scripts": {
+      "start": "node comando.js",
+      "test": "jest"
+    },
+    "devDependencies": {
+      "jest": "^29.7.0"
+    }
+  }
