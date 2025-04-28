@@ -23,6 +23,6 @@ test('add 2 + 3 = 5', () => {
   });
 
   test('power 2 ^ 3 = 8', () => {
-    expect(math.pow(2, 3)).toBe(7);
+    expect(math.pow(2, 3)).toBe(8);
   });
   
